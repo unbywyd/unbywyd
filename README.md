@@ -12,7 +12,7 @@
 - 🎨 **UI/UX Design** specialist with strong professional background in design
 - 📱 Developed **100+ web applications**
 - 🛠 Created **100+ services**
-- 📦 Published **10+ NPM packages**
+- 📦 Published **35+ NPM packages**
 
 I am a **Lead Web Software Architect**, **Full-Stack Web Developer**, and **UI/UX Expert** with over **15 years** of experience in crafting high-performance web applications and interfaces. As the founder of [WEBTO.PRO](https://webto.pro/) and [AIWEB.CO.IL](https://aiweb.co.il/), I specialize in building complex solutions that leverage the latest technologies, including AI and modern development frameworks.
 
