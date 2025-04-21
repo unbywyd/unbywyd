@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-- 🌐 **Founder** at WEBTO.PRO & AIWEB.CO.IL
+- 🌐 **Founder** at WEBTO.PRO
 - 👨‍💻 **15+ years** in software development
 - 🎨 **UI/UX Design** specialist with strong professional background in design
 - 📱 Developed **100+ web applications**
@@ -183,7 +183,7 @@ I have extensive experience integrating and customizing payment solutions for va
 
 ## 📫 Get in Touch
 
-- **Websites**: [unbywyd.com](https://unbywyd.com/), [aiweb.co.il](https://aiweb.co.il/)
+- **Websites**: [unbywyd.com](https://unbywyd.com/), [webto.pro](https://webto.pro/)
 - **GitHub**: [unbywyd](https://github.com/unbywyd)
 - **Email**: [unbywyd@gmail.com](mailto:unbywyd@gmail.com)
 
