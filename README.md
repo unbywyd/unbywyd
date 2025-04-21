@@ -50,6 +50,7 @@ This is just a fraction of the projects we've completed in the past six monthsâ€
   - Building **SPA** and **SSR** applications (React or Angular)
   - Creating modular, reusable components following **SOLID** principles
   - Proficient with **Capacitor** for mobile apps
+  - Developed my ownd RestAPI ESM framework [tsdiapi](https://tsdiapi.com)
   - Developed my own layout framework: [Ungic](https://ungic.com/)
   - Extensive experience with **map integrations**, including:
     - **Google Maps API**
@@ -131,11 +132,10 @@ I have extensive experience integrating and customizing payment solutions for va
 
 - **100+** web applications developed across diverse industries
 - Delivered complex projects within **1-2 months**
-- Authored **10+ NPM packages**, contributing to the developer community
+- Authored **30+ NPM packages**, contributing to the developer community
 - Established high-performance development workflows using AI
 - Pioneered innovative solutions in web accessibility and UX
-- Developed [Ungic](https://ungic.com/), a custom framework for efficient web development
-- Founded [Accessibility Zone](https://accessibility.zone/), advocating for web inclusivity
+- Founded [WebToPro](https://webto.pro/)
 
 ---
 
