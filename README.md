@@ -1,4 +1,4 @@
-# Hi there, I'm Artem Gorlovetskiy (Unbywyd) 👋
+# Hi there, I'm Artyom Gorlovetskiy (Unbywyd) 👋
 
 [![GitHub](https://img.shields.io/badge/GitHub-unbywyd-181717?logo=github&style=flat-square)](https://github.com/unbywyd)
 [![Website](https://img.shields.io/badge/Website-unbywyd.com-0A0A0A?style=flat-square)](https://unbywyd.com/)
